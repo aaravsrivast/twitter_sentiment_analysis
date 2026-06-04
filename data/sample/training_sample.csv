@@ -1,0 +1,241 @@
+text,sentiment
+"I absolutely love this product, best purchase ever!",1
+"Amazing day today, everything went perfectly #blessed",1
+"So grateful for my friends and family, life is beautiful",1
+"This movie was fantastic, highly recommend it to everyone",1
+"Great news! We won the hackathon, team did incredible work",1
+Feeling motivated and ready to crush my goals this week,1
+"The concert last night was unreal, best experience ever",1
+"Thank you so much for the help, you are the best",1
+"Proud of our team, shipped the feature ahead of schedule",1
+"Beautiful sunset tonight, nature never disappoints",1
+"Learning ML is so much fun, loving every lecture",1
+"Coffee tastes perfect this morning, great start",1
+"Our startup just got funded, dream come true",1
+"Holiday vibes are the best, so relaxed and happy",1
+Customer support was super helpful and friendly,1
+"New update fixed all bugs, app runs smoothly now",1
+"Interview went well, fingers crossed for the offer",1
+"Weekend trip was awesome, memories for life",1
+"Finally passed the exam, hard work paid off",1
+"This restaurant exceeded expectations, delicious food",1
+"Love working from home, productivity is through the roof",1
+"The book was captivating, could not put it down",1
+"Gym session felt amazing, endorphins hitting different",1
+"Community event was heartwarming, met wonderful people",1
+"Solar install finished, saving money and helping planet",1
+"Worst service ever, never coming back again",0
+"Terrible experience, wasted my entire afternoon",0
+"So frustrated with this bug, nothing works",0
+"Disappointed with the quality, complete ripoff",0
+"Traffic was horrible, missed my important meeting",0
+"Feeling exhausted and burned out, need a break",0
+"This update broke everything, app keeps crashing",0
+"Rude staff and long wait, unacceptable",0
+"Failed the test again, feeling hopeless",0
+"Rain ruined our outdoor plans, such a letdown",0
+"Battery dies in two hours, phone is useless",0
+"Scam alert, lost money on this deal",0
+"Noise all night, could not sleep at all",0
+"Project deadline moved up, team is stressed",0
+"Food was cold and tasteless, not worth the price",0
+"Cancelled flight with no refund, furious",0
+"Internet down all day, remote work nightmare",0
+"Harassed online today, social media is toxic",0
+"Package arrived damaged, customer service ignored me",0
+"Allergic reaction from product, seeking refund",0
+"Boss micromanages everything, workplace is toxic",0
+"Spent hours on hold, still no resolution",0
+"Weather alert ruined the festival, so upset",0
+"Lost my wallet, worst day in months",0
+"Algorithm keeps showing junk, platform is broken",0
+"Really enjoying AI, such a positive vibe",1
+"Really enjoying crypto, such a positive vibe",1
+"Really enjoying elections, such a positive vibe",1
+"Really enjoying sports, such a positive vibe",1
+"Really enjoying climate, such a positive vibe",1
+"Really enjoying tech, such a positive vibe",1
+"Really enjoying music, such a positive vibe",1
+"Really enjoying films, such a positive vibe",1
+"Really enjoying jobs, such a positive vibe",1
+"Really enjoying healthcare, such a positive vibe",1
+"Big fan of AI, keeps getting better",1
+"Big fan of crypto, keeps getting better",1
+"Big fan of elections, keeps getting better",1
+"Big fan of sports, keeps getting better",1
+"Big fan of climate, keeps getting better",1
+"Big fan of tech, keeps getting better",1
+"Big fan of music, keeps getting better",1
+"Big fan of films, keeps getting better",1
+"Big fan of jobs, keeps getting better",1
+"Big fan of healthcare, keeps getting better",1
+"AI made my week, thank you",1
+"crypto made my week, thank you",1
+"elections made my week, thank you",1
+"sports made my week, thank you",1
+"climate made my week, thank you",1
+"tech made my week, thank you",1
+"music made my week, thank you",1
+"films made my week, thank you",1
+"jobs made my week, thank you",1
+"healthcare made my week, thank you",1
+"Excited about AI, looking forward to more",1
+"Excited about crypto, looking forward to more",1
+"Excited about elections, looking forward to more",1
+"Excited about sports, looking forward to more",1
+"Excited about climate, looking forward to more",1
+"Excited about tech, looking forward to more",1
+"Excited about music, looking forward to more",1
+"Excited about films, looking forward to more",1
+"Excited about jobs, looking forward to more",1
+"Excited about healthcare, looking forward to more",1
+"Happy to support AI, well deserved win",1
+"Happy to support crypto, well deserved win",1
+"Happy to support elections, well deserved win",1
+"Happy to support sports, well deserved win",1
+"Happy to support climate, well deserved win",1
+"Happy to support tech, well deserved win",1
+"Happy to support music, well deserved win",1
+"Happy to support films, well deserved win",1
+"Happy to support jobs, well deserved win",1
+"Happy to support healthcare, well deserved win",1
+"Hate how AI turned out, major disappointment",0
+"Hate how crypto turned out, major disappointment",0
+"Hate how elections turned out, major disappointment",0
+"Hate how sports turned out, major disappointment",0
+"Hate how climate turned out, major disappointment",0
+"Hate how tech turned out, major disappointment",0
+"Hate how music turned out, major disappointment",0
+"Hate how films turned out, major disappointment",0
+"Hate how jobs turned out, major disappointment",0
+"Hate how healthcare turned out, major disappointment",0
+"AI is a disaster, needs fixing asap",0
+"crypto is a disaster, needs fixing asap",0
+"elections is a disaster, needs fixing asap",0
+"sports is a disaster, needs fixing asap",0
+"climate is a disaster, needs fixing asap",0
+"tech is a disaster, needs fixing asap",0
+"music is a disaster, needs fixing asap",0
+"films is a disaster, needs fixing asap",0
+"jobs is a disaster, needs fixing asap",0
+"healthcare is a disaster, needs fixing asap",0
+"Angry about AI, this is unacceptable",0
+"Angry about crypto, this is unacceptable",0
+"Angry about elections, this is unacceptable",0
+"Angry about sports, this is unacceptable",0
+"Angry about climate, this is unacceptable",0
+"Angry about tech, this is unacceptable",0
+"Angry about music, this is unacceptable",0
+"Angry about films, this is unacceptable",0
+"Angry about jobs, this is unacceptable",0
+"Angry about healthcare, this is unacceptable",0
+"Sick of AI, when will it improve",0
+"Sick of crypto, when will it improve",0
+"Sick of elections, when will it improve",0
+"Sick of sports, when will it improve",0
+"Sick of climate, when will it improve",0
+"Sick of tech, when will it improve",0
+"Sick of music, when will it improve",0
+"Sick of films, when will it improve",0
+"Sick of jobs, when will it improve",0
+"Sick of healthcare, when will it improve",0
+"Regret trusting AI, never again",0
+"Regret trusting crypto, never again",0
+"Regret trusting elections, never again",0
+"Regret trusting sports, never again",0
+"Regret trusting climate, never again",0
+"Regret trusting tech, never again",0
+"Regret trusting music, never again",0
+"Regret trusting films, never again",0
+"Regret trusting jobs, never again",0
+"Regret trusting healthcare, never again",0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0
+OMG!!! 😍😍 love it https://t.co/abc @friend,1
+ughhh worst... dont even @me #fail,0
+can't believe how GOOD this is!!! #winning,1
+not impressed... meh 😒,0
+RT if you agree this is AMAZING,1
+why is everything broken today smh,0

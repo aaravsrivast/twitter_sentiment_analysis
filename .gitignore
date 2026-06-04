@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project artifacts
+models/*.joblib
+outputs/latest_run/
+outputs/model_comparison.json
